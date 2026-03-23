@@ -1,0 +1,85 @@
+
+body{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+
+}
+.text-mine{
+          color:crimson;
+}
+.navbar-brand img{
+          width: 80px;
+}
+
+
+header{
+background-image: url(../images/bg.jpg);
+background-position: center;
+background-size: cover;
+
+} 
+.icon{
+          width: 40px;
+          height: 40px;
+          
+      
+          
+}
+.title h2{
+          font-size: 80px;
+          color: #f1f1f1;
+          letter-spacing: 10px;
+}
+.title h3{
+          font-size: 40px;
+          letter-spacing: 15px;
+
+}
+.about{
+          background-image: url(../images/light_dot.jpg);
+}
+.services{
+          background-image: url(../images/dark_dot.jpg);
+}
+
+.services h2{
+
+
+          color: #222;
+}
+.services h3{
+          color: white;
+
+}
+.services .brdr{
+          width: 25%;
+          height: 2px;
+          margin: 10px auto;
+          background-color: crimson;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
